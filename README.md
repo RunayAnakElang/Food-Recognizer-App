@@ -13,9 +13,9 @@ This project fulfills all required criteria across all assessment categories:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📸 1. Image Capture (Camera & Gallery)
+###  1. Image Capture (Camera & Gallery)
 
 * Take photos directly using **custom camera** (`camera` package)
 * Pick image from gallery using `image_picker`
@@ -24,7 +24,7 @@ This project fulfills all required criteria across all assessment categories:
 
 ---
 
-### 🧠 2. Food Classification with Machine Learning
+### 2. Food Classification with Machine Learning
 
 * Uses **Food Classifier Model (TFLite)** provided by Dicoding
 * Inference performed via **LiteRT** for optimized performance
@@ -37,7 +37,7 @@ This project fulfills all required criteria across all assessment categories:
 
 ---
 
-### 📄 3. Prediction & Detail Page
+### 3. Prediction & Detail Page
 
 After the ML model predicts the food, a dedicated detail page shows:
 
@@ -56,7 +56,7 @@ This section fulfills the *Skilled* criteria.
 
 ---
 
-### 🤖 4. Nutrition Info with Gemini AI (Advanced)
+### 4. Nutrition Info with Gemini AI (Advanced)
 
 The application also fetches **nutrition details** through **Gemini Generative AI**, including:
 
@@ -70,7 +70,7 @@ This allows the app to reach the **Advanced (4 pts)** criteria.
 
 ---
 
-## 📸 App Screenshots
+## App Screenshots
 
 Pages implemented:
 
@@ -119,7 +119,7 @@ flutter run
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Flutter & Dart**
 * **TensorFlow Lite (LiteRT)**
@@ -132,7 +132,7 @@ flutter run
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 This submission’s purpose is to:
 
