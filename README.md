@@ -52,7 +52,6 @@ After the ML model predicts the food, a dedicated detail page shows:
   * Measurement list
   * Cooking instructions
 
-This section fulfills the *Skilled* criteria.
 
 ---
 
@@ -66,7 +65,6 @@ The application also fetches **nutrition details** through **Gemini Generative A
 * Fiber
 * Protein
 
-This allows the app to reach the **Advanced (4 pts)** criteria.
 
 ---
 
